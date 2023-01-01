@@ -1,0 +1,51 @@
+[
+    {
+        "id" : 1,
+        "title": "How we work and process",
+        "description": "The quality of each Finished item is paramount, and we use the same high-quality materials and processes for every product we make.",
+        "process": [
+            {
+                "id" : 11,
+                "serial": "01",
+                "title": "Research",
+                "description": "Research is the foundation for any great work. We understand that, so before working on your project, we research it. We study everything about your industry and niche, check out the competition and come up with a perfect plan to achieve success. It's not just about doing the job - it's about doing it right!"
+            },
+            {
+                "id" : 12,
+                "serial": "02",
+                "title": "UX Design",
+                "description": "UX design is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product. We make sure to apply UX design practices throughout our development process for all of our products. This ensures that we are always able to provide you with a seamless experience."
+            },
+            {
+                "id" : 13,
+                "serial": "03",
+                "title": "UI Design",
+                "description": "After UX Design we work to make it visually attractive. So that, your product will be more beautiful with a user-friendly design. Users will enjoy every moment of your products."
+            },
+            {
+                "id" : 14,
+                "serial": "04",
+                "title": "Prototype & Testing",
+                "description": "After designing we test the product by prototyping. That helps us to know how the product will work actual version. It’s work like a Demo version of products products ullamcorper mattis, pulvinar dapibus leo."
+            },
+            {
+                "id" : 15,
+                "serial": "05",
+                "title": "Develop Product",
+                "description": "Now it’s time to develop. When we did the prototype and testing we start work on development."
+            },
+            {
+                "id" : 16,
+                "serial": "06",
+                "title": "Maintenance",
+                "description": "After development, there can be some bug issues. we work on fixing it regularly."
+            },
+            {
+                "id" : 17,
+                "serial": "07",
+                "title": "Marketing",
+                "description": "We can do marketing very professionally. We have a successful product in the market. That is Bismillah lab. So it's your choice, if you want to take marketing services then you are at the right place."
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "link": "/#home"
+    },
+    {
+        "id": 2,
+        "title": "Services",
+        "link": "/#services"
+    },
+    {
+        "id": 3,
+        "title": "Testimonial",
+        "link": "/#testimonial"
+    },
+    {
+        "id": 4,
+        "title": "Design Blogs",
+        "link": "/#designBlogs"
+    },
+    {
+        "id": 5,
+        "title": "Schedule for call",
+        "link": "/"
+    }
+]

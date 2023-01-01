@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Our capabilities",
+    "description": "80+ — projects we've helped launch through the years. Take a look at some of our selected case studies.",
+    "details": [
+      {
+        "id": 11,
+        "title": "Branding",
+        "description": "Branding is the thing that gives identity to a company. It is an identity that creates the perception in people's mind of the company. We here deal with designing part of your brand which makes it more attractive for promoting your business."
+      },
+      {
+        "id": 12,
+        "title": "UIUX Design",
+        "description": "UIUX design is a one-stop solution for all your needs – web, mobile and even print. We specialize in designing websites and apps that are user-friendly. Our team of highly skilled professionals can help you to create a website or an app that will work with the latest trends and technologies."
+      },
+      {
+        "id": 13,
+        "title": "Development",
+        "description": "We have a lot of experience in developing and maintaining a product. We can develop your product from idea to release. Our team is composed of highly skilled developers that can meet any software requirement for our clients."
+      },
+      {
+        "id": 14,
+        "title": "Marketing",
+        "description": "After finishing developing your site, Now Play on marketing. Marketing is king. The product is nothing without proper marketing whatever your product is very useful. We specially work on this part"
+      }
+    ]
+  }
+]

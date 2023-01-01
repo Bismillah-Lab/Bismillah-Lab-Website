@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --primary-color: #ada2ff;
+  --new-primary-color: #ffb50d;
+  --secondary-color: #c0deff;
+  --new-secondary-color: #f6f4ee;
+  --heading-text-color: #161613;
+  --text-color: #333329;
+  --sub-heading-text-color: #828282;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+* {
+  box-sizing: border-box;
+  font-family: "Playfair Display" !important;
+}
+.heading-text {
+  color: var(--heading-text-color);
+  font-size: 94px;
+  font-weight: 500;
+  line-height: 96px;
+}
+.banner-bg {
+  background-color: var(--new-secondary-color);
+}
+.nav-text {
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--text-color);
+  cursor: pointer;
+}
+.nav-text:first-child {
+  color: var(--new-primary-color);
+}
+.nav-text:hover {
+  color: var(--new-primary-color);
+}
+.nav-text:last-child:hover {
+  color: var(--heading-text-color);
+}
+.nav-button {
+  background-color: var(--new-primary-color);
+  padding: 26px 48px;
+  font-family: "Playfair Display", Sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 30px;
+  border-radius: 50px 50px 50px 50px;
+  color: var(--text-color);
+  cursor: pointer;
+}
+.tag-line {
+  font-weight: 400 !important;
+  color: var(--heading-text-color);
+}
+.sub-heading {
+  color: var(--sub-heading-text-color);
+}
+.text-color {
+  color: var(--text-color);
+}
+.secondary-text-color {
+  color: var(--sub-heading-text-color);
+}
+.white-text-color {
+  color: #f8f8f8;
+}
+.new-white-text-color{
+  color: #d6d6d6;
+}
+.link-btn-button {
+  padding: 21px 40px 21px 40px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #e7e7e9;
+  border-radius: 100px 100px 100px 100px;
+}

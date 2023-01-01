@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "serial": "01",
+    "title": "Design",
+    "description": "We are a group of designers and developers who work together with our customers to make their dream design come true.",
+    "details": [
+      {
+        "id": 11,
+        "title": "Websites and Platforms",
+        "description": "We are an advanced digital agency focused on delivering high-end, user experience-driven solutions. We have a team of effective web developers who have years of experience in building and designing dynamic websites.",
+        "img": "#"
+      },
+      {
+        "id": 12,
+        "title": "Mobile Apps",
+        "description": "We work with customers from the initial stages of design and development to final product delivery. Our team is passionate about creating websites that are easy and pleasant to use for their users.",
+        "img": "#"
+      },
+      {
+        "id": 13,
+        "title": "Strategy & Branding",
+        "description": "We work with companies of all sizes from established enterprises to startups, nonprofits and foundations to deliver exceptional results.",
+        "img": "#"
+      },
+      {
+        "id": 14,
+        "title": "Design Concept",
+        "description": "We have a team of highly experienced designers who help you create appealing and beautiful design, which will match your business idea perfectly.",
+        "img": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "serial": "02",
+    "title": "Development",
+    "description": "We use the best tools and technology available to develop your dream project. We follow test-driven development approach by writing unit tests and integration tests.",
+    "details": [
+      {
+        "id": 21,
+        "title": "Web Services",
+        "description": "We at Web Services provide cost-effective solutions that let you build a strong online presence and gain impressive profits. With our technical expertise and experience, we build high-load platforms to operate 24/7 without any glitches.",
+        "img": "#"
+      },
+      {
+        "id": 22,
+        "title": "Native Mobile Development ",
+        "description": "Native mobile development is the process of developing a mobile application using specialized software languages and tools to target a specific platform. Our native app developers build apps that are fast, efficient and secure.",
+        "img": "#"
+      },
+      {
+        "id": 23,
+        "title": "Hybrid Mobile Development",
+        "description": "Hybrid Mobile Development is an app development company that provides a broad range of mobile application services for both Apple iOS and Google Android.",
+        "img": "#"
+      },
+      {
+        "id": 24,
+        "title": "Quality Assurance",
+        "description": "We are a team of dedicated and passionate quality assurance professionals who aim to deliver the best quality work for your dream project. With us, you can have peace of mind that your project will be delivered on time with no bugs.",
+        "img": "#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "serial": "03",
+    "title": "Maintenance",
+    "description": "One of the most common questions asked by new startup owners is: “What happens after I finish building my product and it goes live?” Once your project is complete, we will provide you with support, solutions and answers to any questions that you might have. We are always here for you.",
+    "details": [
+      {
+        "id": 31,
+        "title": "Post-release support",
+        "description": "We continue to provide you post-release support, including the release of new features, fixes, updates and more. Reporting bugs is a crucial step in the software development process.",
+        "img": "#"
+      },
+      {
+        "id": 32,
+        "title": "System Administration",
+        "description": "We will create a System Administration for you. This system will make your life very easy. You don't need to do anything on this new system arrangement. Everything has been done by our team.",
+        "img": "#"
+      }
+    ]
+  }
+]
