@@ -16,6 +16,7 @@ export default function Home() {
         <title>Bismillah Agency</title>
         <meta name="description" content="Bismillah Agency" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="trustpilot-one-time-domain-verification-id" content="ec4c0499-3ad6-4762-9193-cec5699504c9"/>
         <link rel="icon" href="/favicon.svg" />
       </Head>
       <main>
